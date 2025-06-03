@@ -27,6 +27,8 @@ Introducing Crazybets.cc, your premade online casino template featuring Crypto, 
 ![Image](https://github.com/user-attachments/assets/69e1a9b8-885f-4753-a9a4-2682254d8d39)
 ![Image](https://github.com/user-attachments/assets/aef4df34-3246-424c-95d7-709e0780fede)
 ![Image](https://github.com/user-attachments/assets/f3a94ce2-7c40-4ace-92a9-813a50f26c59)
+## 🔗 Want to see more? Visit the full site: crazybets.cc
+
 
 ## Mobile Version
 
@@ -34,6 +36,7 @@ Introducing Crazybets.cc, your premade online casino template featuring Crypto, 
 ![Mobile Version 2](https://github.com/user-attachments/assets/0d5a63ff-47b1-4aa0-9c4f-7bb265df919b)
 ![Mobile Version 3](https://github.com/user-attachments/assets/b89d1a25-be8d-4c8e-bc82-40c7f0842ab3)
 ![Mobile Version 4](https://github.com/user-attachments/assets/792809ec-c030-4eaf-96cb-20e6c6d3f8f8)
+## 🔗 Want to see more? Visit the full site: crazybets.cc
 
 ## Additional Information
 
