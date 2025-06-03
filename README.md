@@ -55,3 +55,4 @@ Contact us for access/purchase Crazybets.cc :
 - Discord: Find me on discord by searching [hesues] <= im active here
 # https://www.youtube.com/watch?v=prFl0EPIZIc&t=188s <Youtube video here
 
+⚠️ Note: The website may receive updates over time, so the images shown above might not exactly reflect the most current design or features. Please visit crazybets.cc to view the live version for the latest look and functionality.
