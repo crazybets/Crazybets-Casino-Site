@@ -1,0 +1,14 @@
+{
+    "config": {
+        "vendor-dir": "core/libs"
+    },
+    "require": {
+        "php": "^7.2 || ^8.0",
+        "piggly/php-pix": "^3.0.0",
+        "paymentwall/paymentwall-php": "^2.2",
+        "mobiledetect/mobiledetectlib": "2.8.41",
+        "stripe/stripe-php": "^12.1",
+        "endroid/qr-code": "^5.1",
+        "chillerlan/php-qrcode": "^5.0"
+    }
+}
