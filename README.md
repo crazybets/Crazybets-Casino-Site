@@ -50,5 +50,5 @@ Contact us for access/purchase Crazybets.cc :
 - Website: Crazybets.cc
 - Telegram: t.me/hesuse
 - Discord: Find me on discord by searching [hesues] <= im active here
-# https://www.youtube.com/watch?v=kDbSGd5Hnzs <Youtube video here
+# https://www.youtube.com/watch?v=prFl0EPIZIc&t=188s <Youtube video here
 
