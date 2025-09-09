@@ -52,6 +52,8 @@ For clients interested in purchasing the Crazybets.cc pre-made template, we offe
 
 Contact us for access/purchase Crazybets.cc :
 - Website: Crazybets.cc
+- Website: Bluebetz.net
+- Website: Bagsbet.fun
 - Telegram: t.me/hesuse
 - Discord: Find me on discord by searching [hesues] <= im active here
 # https://www.youtube.com/watch?v=prFl0EPIZIc&t=188s <Youtube video here
